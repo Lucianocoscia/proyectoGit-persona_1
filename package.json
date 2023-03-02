@@ -1,0 +1,24 @@
+{
+  "name": "proyectogit-persona_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucianocoscia/proyectoGit-persona_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucianocoscia/proyectoGit-persona_1/issues"
+  },
+  "homepage": "https://github.com/Lucianocoscia/proyectoGit-persona_1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
